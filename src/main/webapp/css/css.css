@@ -1,0 +1,211 @@
+#boton{
+  margin-right: 500000px;
+  }
+
+
+  .parrafo1 {
+    text-align: center;
+    font-size: 35%;
+    margin:0;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+  
+  }
+  
+  #tamano {
+    font-size: 130%;
+  }
+  
+  
+  
+  
+  #mov {
+    padding-left: 26%;
+  
+  } 
+  
+  #tamanio {
+   
+  
+  margin-bottom: 3%;
+  
+  
+  
+  } 
+  
+  #centrar {
+   
+  text-align: center;
+  
+  padding-top: 5%;
+
+  
+  } 
+  
+  
+  #tamanio2 {
+   
+    margin-bottom: 5%;
+    font: oblique bold 100% cursive;
+    padding-top: 9%;
+    align-items: right;
+    background: linear-gradient(#fff2bc, white);
+  
+
+  
+    } 
+  
+  
+  #recuadros {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: rgb(243, 242, 242);
+    }
+  
+  
+  #titulo {
+  
+    padding-top: 5%;
+    padding-bottom: 3%;
+    text-align: center;
+    font-family: "Brush Script MT";
+    font-size: 500%
+        }
+  
+  
+  #espacio {
+  
+  padding-bottom: 5%;
+  background: rgb(174,248,252);
+  background: linear-gradient(90deg, rgba(174,248,252,1) 0%, rgba(255,255,255,1) 45%);
+  }
+  
+  
+  #espacio2 {
+  
+   background: rgb(174,248,252);
+  background: linear-gradient(90deg, rgba(174,248,252,1) 0%, rgba(255,255,255,1) 45%);
+  }
+  
+  
+  #estilo {
+   
+  padding-bottom: 5%;
+  font-family: "Brush Script MT";
+         
+   }
+         
+   #opacidad:hover {
+   filter: opacity(.3);
+   }   
+
+   #tamano2{
+    width: 100px; 
+    height: 102px;
+   }
+
+   #imagen{
+    padding-top: 5%;
+    padding-bottom: 8%;
+
+   }
+   #imagen2{
+    
+    padding-left: 21%;
+    padding-right: 21%;
+   
+   }   
+
+   #imagen1{
+    padding-left: 21%;
+    padding-right: 21%;
+
+   } 
+
+   #p{
+   
+    padding-left: 20%;
+    padding-right: 7%;
+    padding-top: 5%;
+    width: 500%;
+    height: 72%;
+    padding-top: 5%;
+   
+     align-items: center;
+   }
+
+      
+   #colorines{
+    margin-bottom: 5%;
+    font: oblique bold 100% cursive;
+    padding-top: 9%;
+    align-items: right;
+    background-color:#fff2bc ;
+   }
+
+   #colorines{
+ 
+   
+   background: linear-gradient(#fff2bc, white);
+   }
+
+  #tamano{
+
+    padding-top: 7%;
+    padding-bottom: 5%;
+
+
+   }
+
+  
+
+.bg-image-vertical {
+position: relative;
+overflow: hidden;
+background-repeat: no-repeat;
+background-position: right center;
+background-size: auto 100%;
+}
+
+#c{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  
+#imagen2 {
+  padding-left: 32%;
+  padding-right: 32%;
+}
+
+#imagen2:hover {
+  opacity: 0.20; /* Aumenta la opacidad al pasar el mouse sobre la imagen */
+  transition: opacity 0.3s ease; /* Agrega una transición suave */
+}
+
+
+ #t {
+        margin: 0;
+    }
+
+
+  #esp {
+padding-top: 10%;
+                
+}  
+
+#fondo {
+    font-size: 500%;
+    background-color:black;
+
+    padding-bottom: 2%;
+  
+  }
+
+
+  
